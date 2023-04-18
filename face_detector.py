@@ -26,4 +26,4 @@ cv2.imshow('Face Tracker',img)
 # holding till next action
 cv2.waitKey()
 
-print("Code Completed")
+print("Code Completed and stored in ")
